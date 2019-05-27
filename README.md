@@ -7,7 +7,7 @@
 
 
 This application uses JS/jQuery and multiple API interactions to:
-* query a recipe based on a given ingreditent
+* query a recipe based on a given ingredient
 * display nutritional values for that recipe, based on its ingredients
 * query a similar food product, available for purchase at a nearby restaurant
 * display nutritional values for that product for comparison
