@@ -1,6 +1,6 @@
 # UCLA Coding Bootcamp 2019 - Project 1
 
-![Screenshot](project.jpg)
+![Optional Text](../assets/images/image.png
 
 ## In or Out
 #### A nutrition app for deciding how to eat!
